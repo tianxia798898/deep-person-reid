@@ -1,0 +1,3 @@
+outputs/mars_time_constraint/rescue_example_1.jpg
+outputs/mars_time_constraint/rescue_example_2.jpg
+outputs/mars_time_constraint/rescue_example_3.jpg

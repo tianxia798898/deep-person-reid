@@ -139,3 +139,9 @@ log/
 saved-models/
 model-zoo/
 debug*
+
+# Generated media and model artifacts
+*.jpg
+*.jpeg
+*.gif
+*.pt
